@@ -1,0 +1,11 @@
+This program implements two interpolation methods:
+
+- Decomposition into [Chebyshev polynomials];
+- Interpolation using cubic splines with natural boundary conditions.
+
+[Chebyshev polynomials]: https://en.wikipedia.org/wiki/Chebyshev_polynomials
+
+Build using:
+
+    $ qmake-qt4
+    $ make
