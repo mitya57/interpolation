@@ -1,12 +1,12 @@
-#include <QtCore/Qt>
-#include <QtCore/QString>
-#include <QtCore/QtAlgorithms>
-#include <QtCore/QPoint>
-#include <QtCore/QRect>
-#include <QtCore/qmath.h>
+#include <Qt>
+#include <QString>
+#include <QtAlgorithms>
+#include <QPoint>
+#include <QRect>
+#include <qmath.h>
 
-#include <QtGui/QWidget>
-#include <QtGui/QPainter>
+#include <QWidget>
+#include <QPainter>
 
 #include "window.hpp"
 #include "function.hpp"

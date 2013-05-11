@@ -1,4 +1,4 @@
-#include <QtCore/qmath.h>
+#include <qmath.h>
 
 double function(double point) {
 	return qCos(point);

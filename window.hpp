@@ -1,16 +1,16 @@
-#include <QtCore/QFlags>
+#include <QFlags>
 
-#include <QtGui/QMainWindow>
-#include <QtGui/QWidget>
-#include <QtGui/QHBoxLayout>
-#include <QtGui/QVBoxLayout>
-#include <QtGui/QToolBar>
-#include <QtGui/QPushButton>
-#include <QtGui/QAction>
-#include <QtGui/QLabel>
-#include <QtGui/QLineEdit>
-#include <QtGui/QAbstractSpinBox>
-#include <QtGui/QDoubleSpinBox>
+#include <QMainWindow>
+#include <QWidget>
+#include <QHBoxLayout>
+#include <QVBoxLayout>
+#include <QToolBar>
+#include <QPushButton>
+#include <QAction>
+#include <QLabel>
+#include <QLineEdit>
+#include <QAbstractSpinBox>
+#include <QDoubleSpinBox>
 
 enum Drawable {
 	DrawNone             = 0x00,
